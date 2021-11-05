@@ -29,8 +29,8 @@ const queue = new Map();
 const imdb = require("imdb-api");
 const cooldown = new Set();
 const cdtime = 5;
-const prefix = "b!"
-client.login("")
+const prefix = "s/"
+client.login("OTA2MTIwODc1NjA1MTEwODE1.YYUA0w.P8Z96O4GANU751zDnkLItXjp-gM")
 client.on("ready", () => {
   console.log("ALLAH AKBAR");
   console.log("♔♔♔♔♔♔♔♔♔♔♔♔♔♔♔♔♔♔♔");
